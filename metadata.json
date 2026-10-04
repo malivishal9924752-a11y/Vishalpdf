@@ -1,0 +1,6 @@
+{
+  "name": "Vishalpdf",
+  "description": "Vishalpdf is a modern PDF library platform with SHA-256 duplicate detection, Supabase Google OAuth, credit and quota download management, and Stripe checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
